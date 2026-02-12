@@ -5,7 +5,7 @@ Hi! I am a B.Tech Computer Science (Data Science) student at Raghu Engineering C
 ## 🎓 Education
 - B.Tech Computer Science and Engineering (Data Science)
 - Raghu Engineering College (2023 – 2027)
-- CGPA: 8.98
+- CGPA: 9.1
 
 ## 🛠 Technical Skills
 - Python  
