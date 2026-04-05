@@ -1,39 +1,74 @@
-# Namratha Chowdary Gundapuneedi
+# Hi, I'm Namratha 👋
 
-Hi! I am a B.Tech Computer Science (Data Science) student at Raghu Engineering College with a strong interest in Data Analytics and problem-solving.
+🎓 B.Tech CSE (Data Science) Student
+📊 Aspiring Data Analyst
+💡 Passionate about turning data into meaningful insights
+
+---
 
 ## 🎓 Education
-- B.Tech Computer Science and Engineering (Data Science)
-- Raghu Engineering College (2023 – 2027)
-- CGPA: 9.1
 
-## 🛠 Technical Skills
-- Python  
-- SQL  
-- Data Analysis  
-- Data Visualization  
-- Pandas, NumPy  
-- Microsoft Excel  
-- HTML, CSS, JavaScript (Basics)
+* B.Tech Computer Science and Engineering (Data Science)
+* Raghu Engineering College (2023 – 2027)
+* CGPA: 9.1
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming:** Python, SQL
+**Data Analysis:** Pandas, NumPy
+**Visualization:** Matplotlib
+**Tools:** Microsoft Excel
+**Web Basics:** HTML, CSS, JavaScript
+
+---
 
 ## 💡 Interests
-- Data Analytics  
-- Problem Solving  
-- Real-world data-driven solutions  
+
+* Data Analytics & Visualization
+* Problem Solving
+* Building real-world data-driven solutions
+
+---
 
 ## 💼 Experience
-**Python Full Stack Development Intern**  
-EduSkills Foundation (Remote)  
-- Worked with Python fundamentals and backend development concepts  
-- Built basic web applications  
-- Practiced CRUD operations and database interaction  
 
-## 🚀 Goal
-Aspiring Data Analyst seeking internship opportunities to apply analytical skills and gain industry exposure through global programs like **Infosys InStep**.
+**Python Full Stack Development Intern**
+EduSkills Foundation (Remote)
+
+* Worked on Python fundamentals and backend development concepts
+* Developed basic web applications
+* Implemented CRUD operations and database interactions
+
+---
+
+## 🎯 Career Goal
+
+Aspiring Data Analyst aiming to leverage analytical skills to solve real-world problems and gain industry experience through impactful projects and internships.
+
+---
 
 ## 📂 Projects
-Currently organizing and uploading academic and practice projects related to Python, SQL, and Data Analysis.
+
+🔹 Currently building and uploading projects in:
+
+* Data Analysis using Python
+* SQL Database Management
+* Data Visualization
+
+📌 Upcoming Projects:
+
+* Sales Data Analysis Dashboard
+* Student Performance Analysis
+* SQL-Based Student Database System
+
+---
 
 ## 🔗 Links
-- LinkedIn: [Profile](https://www.linkedin.com/in/namratha-chowdary-gundapuneedi)
-- GitHub: [Profile](https://github.com/Namratha1450)
+
+* LinkedIn: https://www.linkedin.com/in/namratha-chowdary-gundapuneedi
+* GitHub: https://github.com/Namratha1450
+
+---
+
