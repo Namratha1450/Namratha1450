@@ -1,45 +1,44 @@
 # Hi, I'm Namratha 👋
 
-🎓 B.Tech CSE (Data Science) Student
-📊 Aspiring Data Analyst
-💡 Passionate about turning data into meaningful insights
+💡 Passionate about solving real-world problems using data  
+
+🎓 B.Tech CSE (Data Science) Student  
+📊 Aspiring Data Analyst | Open to Internships  
 
 ---
 
 ## 🎓 Education
-
-* B.Tech Computer Science and Engineering (Data Science)
-* Raghu Engineering College (2023 – 2027)
-* CGPA: 9.1
+- B.Tech Computer Science and Engineering (Data Science)  
+- Raghu Engineering College (2023 – 2027)  
+- CGPA: 9.1  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠 Technical Skills
 
-**Programming:** Python, SQL
-**Data Analysis:** Pandas, NumPy
-**Visualization:** Matplotlib
-**Tools:** Microsoft Excel
-**Web Basics:** HTML, CSS, JavaScript
+- Programming: Python, SQL  
+- Data Analysis: Pandas, NumPy  
+- Data Visualization: Matplotlib  
+- Tools: Microsoft Excel  
+- Web Basics: HTML, CSS, JavaScript  
 
 ---
 
 ## 💡 Interests
-
-* Data Analytics & Visualization
-* Problem Solving
-* Building real-world data-driven solutions
+- Data Analytics & Visualization  
+- Problem Solving  
+- Building real-world data-driven solutions  
 
 ---
 
 ## 💼 Experience
 
-**Python Full Stack Development Intern**
-EduSkills Foundation (Remote)
+**Python Full Stack Development Intern**  
+EduSkills Foundation (Remote)  
 
-* Worked on Python fundamentals and backend development concepts
-* Developed basic web applications
-* Implemented CRUD operations and database interactions
+- Worked on Python fundamentals and backend development concepts  
+- Developed basic web applications  
+- Implemented CRUD operations and database interactions  
 
 ---
 
@@ -51,24 +50,15 @@ Aspiring Data Analyst aiming to leverage analytical skills to solve real-world p
 
 ## 📂 Projects
 
-🔹 Currently building and uploading projects in:
+- 🌍 **Global Tourism Analytics Dashboard**  
+  → Built an interactive data analytics dashboard using Next.js and TypeScript to visualize tourism trends and insights.  
 
-* Data Analysis using Python
-* SQL Database Management
-* Data Visualization
-
-📌 Upcoming Projects:
-
-* Sales Data Analysis Dashboard
-* Student Performance Analysis
-* SQL-Based Student Database System
+- 📊 **Data Analysis using Python (In Progress)**  
+  → Working on real-world datasets using Pandas, NumPy, and Matplotlib for analysis and visualization.  
 
 ---
 
-## 🔗 Links
+## 🔗 Connect with Me
 
-* LinkedIn: https://www.linkedin.com/in/namratha-chowdary-gundapuneedi
-* GitHub: https://github.com/Namratha1450
-
----
-
+- LinkedIn: https://www.linkedin.com/in/namratha-chowdary-gundapuneedi  
+- GitHub: https://github.com/Namratha1450  
