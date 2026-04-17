@@ -1,6 +1,6 @@
 # Hi, I'm Namratha 👋
 
-💡 Passionate about solving real-world problems using data 
+💡 Passionate about solving real-world problems using data
 
 🎓 B.Tech CSE (Data Science) Student  
 📊 Aspiring Data Analyst | Open to Internships
