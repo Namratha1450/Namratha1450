@@ -34,7 +34,7 @@
 ## 💼 Experience
 
 **Python Full Stack Development Intern**  
-EduSkills Foundation (Remote)  
+EduSkills Foundation (Remote)
 
 - Worked on Python fundamentals and backend development concepts  
 - Developed basic web applications  
