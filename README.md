@@ -38,7 +38,7 @@ EduSkills Foundation (Remote)
 
 - Worked on Python fundamentals and backend development concepts  
 - Developed basic web applications  
-- Implemented CRUD operations and database interactions  
+- Implemented CRUD operations and database interactions 
 
 ---
 
