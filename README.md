@@ -60,5 +60,5 @@ Aspiring Data Analyst aiming to leverage analytical skills to solve real-world p
 
 ## 🔗 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/namratha-chowdary-gundapuneedi  
+- LinkedIn: https://www.linkedin.com/in/namratha-chowdary-gundapuneedi 
 - GitHub: https://github.com/Namratha1450  
