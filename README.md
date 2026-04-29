@@ -27,7 +27,7 @@
 ## 💡 Interests
 - Data Analytics & Visualization  
 - Problem Solving  
-- Building real-world data-driven solutions 
+- Building real-world data-driven solutions
 
 ---
 
