@@ -16,7 +16,7 @@
 
 ## 🛠 Technical Skills
 
-- Programming: Python, SQL  
+- Programming: Python, SQL 
 - Data Analysis: Pandas, NumPy 
 - Data Visualization: Matplotlib  
 - Tools: Microsoft Excel 
