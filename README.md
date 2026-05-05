@@ -18,7 +18,7 @@
 
 - Programming: Python, SQL 
 - Data Analysis: Pandas, NumPy 
-- Data Visualization: Matplotlib  
+- Data Visualization: Matplotlib 
 - Tools: Microsoft Excel 
 - Web Basics: HTML, CSS, JavaScript  
 
