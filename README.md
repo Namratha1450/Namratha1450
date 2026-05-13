@@ -53,7 +53,7 @@ Aspiring Data Analyst aiming to leverage analytical skills to solve real-world p
 - 🌍 **Global Tourism Analytics Dashboard**
   → Built an interactive data analytics dashboard using Next.js and TypeScript to visualize tourism trends and insights.
 
-- 📊 **Data Analysis using Python (In Progress)**  
+- 📊 **Data Analysis using Python (In Progress)** 
   → Working on real-world datasets using Pandas, NumPy, and Matplotlib for analysis and visualization.
 
 ---
