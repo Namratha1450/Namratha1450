@@ -20,7 +20,7 @@
 - Data Analysis: Pandas, NumPy
 - Data Visualization: Matplotlib 
 - Tools: Microsoft Excel
-- Web Basics: HTML, CSS, JavaScript  
+- Web Basics: HTML, CSS, JavaScript 
 
 ---
 
