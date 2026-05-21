@@ -28,7 +28,6 @@
 - Data Analytics & Visualization  
 - Problem Solving 
 - Building real-world data-driven solutions
-
 ---
 
 ## 💼 Experience
