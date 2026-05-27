@@ -10,7 +10,7 @@
 ## 🎓 Education
 - B.Tech Computer Science and Engineering (Data Science)
 - Raghu Engineering College (2023 – 2027) 
-- CGPA: 9.07
+- CGPA: 9.1
 
 ---
 
