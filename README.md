@@ -32,7 +32,6 @@
 ### Programming Languages
 - Python
 - SQL
-- Java (Basics)
 - HTML
 - CSS
 
@@ -161,7 +160,6 @@
 - Data Analytics
 - Machine Learning
 - Artificial Intelligence
-- Computer Vision
 - Dashboard Development
 - Python Programming
 
